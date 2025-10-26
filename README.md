@@ -1,7 +1,3 @@
-Here’s a historically rich, technically detailed README you could include with the original **FormMail** CGI script — written to educate modern developers (especially younger ones) about how this once-ubiquitous Perl program powered web communication before modern frameworks and APIs existed.
-
----
-
 # 📜 FormMail – Internet History in Perl
 
 **Version:** 1.92
